@@ -10,8 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "axios": "^1.13.2",
+    "init": "^0.1.2",
+    "lucide-react": "^0.553.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-hook-form": "^7.66.0",
+    "react-router": "^7.9.6",
+    "shadcn": "^3.5.0",
+    "tailwindcss": "^4.1.17",
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
