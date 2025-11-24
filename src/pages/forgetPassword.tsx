@@ -20,7 +20,7 @@ export function ForgetPage() {
           type="email"
           name=""
           id="email"
-          placeholder="Digita o seu email"
+          placeholder="Digita o seu email"    
         />
         <label className="text-white" htmlFor="password">
           Password

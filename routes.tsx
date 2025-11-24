@@ -5,13 +5,15 @@ import { ForgetPage } from "./src/pages/forgetPassword";
 
 export const routes = createBrowserRouter([
   {
+    path: "/",
+    element: <SignPage />,
+  },
+
+  {
     path: "/login",
     element: <LoginPage />,
   },
-  {
-    path: "/signin",
-    element: <SignPage />,
-  },
+
   {
     path: "/forget",
     element: <ForgetPage />,
