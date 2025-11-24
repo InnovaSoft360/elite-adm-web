@@ -58,7 +58,7 @@ export function LoginPage() {
         <span className="text-white cursor-pointer text-center">
           Dont´t have an account?{" "}
           <span className="text-blue-500 hover:text-blue-600">
-            <NavLink to="/signin">Sign in {""}</NavLink>
+            <NavLink to="/">Sign in {""}</NavLink>
           </span>
           for {""} free
         </span>
