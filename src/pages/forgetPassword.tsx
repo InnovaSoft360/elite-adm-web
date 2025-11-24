@@ -40,7 +40,7 @@ export function ForgetPage() {
             </label>
           </div>
           <div>
-            <NavLink to="/forget" className="text-blue-500 cursor-pointer ">
+            <NavLink to="/login" className="text-blue-500 cursor-pointer ">
               back
             </NavLink>
           </div>
